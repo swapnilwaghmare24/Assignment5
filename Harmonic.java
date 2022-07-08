@@ -11,6 +11,6 @@ public class Harmonic
 	    {
 	        sum=sum+(double)1/i;
 	    }
-	    System.out.println("Harmonic value of "+num+" is : "+sum);
+	    System.out.println("Harmonic value of "+number+" is : "+sum);
     }
 }
